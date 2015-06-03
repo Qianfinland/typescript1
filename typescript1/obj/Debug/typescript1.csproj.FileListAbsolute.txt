@@ -1,0 +1,6 @@
+C:\git\TypsonSchema\tyscriptVS2013\typescript1\typescript1\bin\typescript1.dll.config
+C:\git\TypsonSchema\tyscriptVS2013\typescript1\typescript1\bin\typescript1.dll
+C:\git\TypsonSchema\tyscriptVS2013\typescript1\typescript1\bin\typescript1.pdb
+C:\git\TypsonSchema\tyscriptVS2013\typescript1\typescript1\obj\Debug\typescript1.csprojResolveAssemblyReference.cache
+C:\git\TypsonSchema\tyscriptVS2013\typescript1\typescript1\obj\Debug\typescript1.dll
+C:\git\TypsonSchema\tyscriptVS2013\typescript1\typescript1\obj\Debug\typescript1.pdb
